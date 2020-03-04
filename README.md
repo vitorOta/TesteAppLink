@@ -1,5 +1,5 @@
 App to test [Handling Android App Links](https://developer.android.com/training/app-links)
 
-install the app and open [vitorota.com/applink](https://vitorota.com/applink) to test
+To test, install and open [vitorota.com/applink](https://vitorota.com/applink)
 
 <img src="https://raw.githubusercontent.com/vitorOta/TesteAppLink/master/image.png" width="275">
